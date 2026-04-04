@@ -1,6 +1,6 @@
 # Amazon Prime Content Analysis
 
-![Amazon Prime Video](https://img.shields.io/badge/Amazon_Prime-Video_Analysis-blue?style=for-the-badge&logo=amazonprime) ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 
 ## 📌 Project Overview
 This project performs an in-depth Exploratory Data Analysis (EDA) and applies Machine Learning techniques on the **Amazon Prime Video** dataset. The goal is to uncover trends in content strategy, understand audience preferences, and build predictive models to analyze content performance.
